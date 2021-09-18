@@ -1,38 +1,51 @@
 [
   {
+    "name": "21w37a",
+    "protocol": "Snapshot 41",
+    "real_protocol": 1073741865,
+    "related_version":"1.18"
+  },
+  {
     "name": "1.18-exp7",
     "protocol": "Snapshot 47",
-    "real_protocol": 1073741871
+    "real_protocol": 1073741871,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp6",
     "protocol": "Snapshot 46",
-    "real_protocol": 1073741870
+    "real_protocol": 1073741870,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp5",
     "protocol": "Snapshot 45",
-    "real_protocol": 1073741869
+    "real_protocol": 1073741869,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp4",
     "protocol": "Snapshot 44",
-    "real_protocol": 1073741868
+    "real_protocol": 1073741868,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp3",
     "protocol": "Snapshot 43",
-    "real_protocol": 1073741867
+    "real_protocol": 1073741867,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp2",
     "protocol": "Snapshot 42",
-    "real_protocol": 1073741866
+    "real_protocol": 1073741866,
+    "related_version":"1.18"
   },
   {
     "name": "1.18-exp1",
     "protocol": "Snapshot 41",
-    "real_protocol": 1073741865
+    "real_protocol": 1073741865,
+    "related_version":"1.18"
   },
   {
     "name": "1.17.1",
@@ -42,27 +55,32 @@
   {
     "name": "1.17.1-rc2",
     "protocol": "Snapshot 40",
-    "real_protocol": 1073741864
+    "real_protocol": 1073741864,
+    "related_version":"1.17.1"
   },
   {
     "name": "1.17.1-rc1",
     "protocol": "Snapshot 39",
-    "real_protocol": 1073741863
+    "real_protocol": 1073741863,
+    "related_version":"1.17.1"
   },
   {
     "name": "1.17.1-pre3",
     "protocol": "Snapshot 38",
-    "real_protocol": 1073741862
+    "real_protocol": 1073741862,
+    "related_version":"1.17.1"
   },
   {
     "name": "1.17.1-pre2",
     "protocol": "Snapshot 37",
-    "real_protocol": 1073741861
+    "real_protocol": 1073741861,
+    "related_version":"1.17.1"
   },
   {
     "name": "1.17.1-pre1",
     "protocol": "Snapshot 36",
-    "real_protocol": 1073741860
+    "real_protocol": 1073741860,
+    "related_version":"1.17.1"
   },
   {
     "name": 1.17,
@@ -72,122 +90,146 @@
   {
     "name": "1.17-rc2",
     "protocol": "Snapshot 35",
-    "real_protocol": 1073741859
+    "real_protocol": 1073741859,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-rc1",
     "protocol": "Snapshot 34",
-    "real_protocol": 1073741858
+    "real_protocol": 1073741858,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-pre5",
     "protocol": "Snapshot 33",
-    "real_protocol": 1073741857
+    "real_protocol": 1073741857,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-pre4",
     "protocol": "Snapshot 32",
-    "real_protocol": 1073741856
+    "real_protocol": 1073741856,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-pre3",
     "protocol": "Snapshot 31",
-    "real_protocol": 1073741855
+    "real_protocol": 1073741855,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-pre2",
     "protocol": "Snapshot 30",
-    "real_protocol": 1073741854
+    "real_protocol": 1073741854,
+    "related_version":"1.17"
   },
   {
     "name": "1.17-pre1",
     "protocol": "Snapshot 29",
-    "real_protocol": 1073741853
+    "real_protocol": 1073741853,
+    "related_version":"1.17"
   },
   {
     "name": "21w20a",
     "protocol": "Snapshot 28",
-    "real_protocol": 1073741852
+    "real_protocol": 1073741852,
+    "related_version":"1.17"
   },
   {
     "name": "21w19a",
     "protocol": "Snapshot 27",
-    "real_protocol": 1073741851
+    "real_protocol": 1073741851,
+    "related_version":"1.17"
   },
   {
     "name": "21w18a",
     "protocol": "Snapshot 26",
-    "real_protocol": 1073741850
+    "real_protocol": 1073741850,
+    "related_version":"1.17"
   },
   {
     "name": "21w17a",
     "protocol": "Snapshot 25",
-    "real_protocol": 1073741849
+    "real_protocol": 1073741849,
+    "related_version":"1.17"
   },
   {
     "name": "21w16a",
     "protocol": "Snapshot 23",
-    "real_protocol": 1073741847
+    "real_protocol": 1073741847,
+    "related_version":"1.17"
   },
   {
     "name": "21w15a",
     "protocol": "Snapshot 22",
-    "real_protocol": 1073741846
+    "real_protocol": 1073741846,
+    "related_version":"1.17"
   },
   {
     "name": "21w14a",
     "protocol": "Snapshot 21",
-    "real_protocol": 1073741845
+    "real_protocol": 1073741845,
+    "related_version":"1.17"
   },
   {
     "name": "21w13a",
     "protocol": "Snapshot 20",
-    "real_protocol": 1073741844
+    "real_protocol": 1073741844,
+    "related_version":"1.17"
   },
   {
     "name": "21w11a",
     "protocol": "Snapshot 19",
-    "real_protocol": 1073741843
+    "real_protocol": 1073741843,
+    "related_version":"1.17"
   },
   {
     "name": "21w10a",
     "protocol": "Snapshot 18",
-    "real_protocol": 1073741842
+    "real_protocol": 1073741842,
+    "related_version":"1.17"
   },
   {
     "name": "21w08b",
     "protocol": "Snapshot 17",
-    "real_protocol": 1073741841
+    "real_protocol": 1073741841,
+    "related_version":"1.17"
   },
   {
     "name": "21w08a",
     "protocol": "Snapshot 16",
-    "real_protocol": 1073741840
+    "real_protocol": 1073741840,
+    "related_version":"1.17"
   },
   {
     "name": "21w07a",
     "protocol": "Snapshot 15",
-    "real_protocol": 1073741839
+    "real_protocol": 1073741839,
+    "related_version":"1.17"
   },
   {
     "name": "21w06a",
     "protocol": "Snapshot 14",
-    "real_protocol": 1073741838
+    "real_protocol": 1073741838,
+    "related_version":"1.17"
   },
   {
     "name": "21w05b",
     "protocol": "Snapshot 13",
-    "real_protocol": 1073741837
+    "real_protocol": 1073741837,
+    "related_version":"1.17"
   },
   {
     "name": "21w05a",
     "protocol": "Snapshot 12",
-    "real_protocol": 1073741836
+    "real_protocol": 1073741836,
+    "related_version":"1.17"
   },
   {
     "name": "21w03a",
     "protocol": "Snapshot 11",
-    "real_protocol": 1073741835
+    "real_protocol": 1073741835,
+    "related_version":"1.17"
   },
   {
     "name": "1.16.5",
@@ -197,32 +239,38 @@
   {
     "name": "1.16.5-rc1",
     "protocol": "Snapshot 10",
-    "real_protocol": 1073741834
+    "real_protocol": 1073741834,
+    "related_version":"1.16.5"
   },
   {
     "name": "20w51a",
     "protocol": "Snapshot 9",
-    "real_protocol": 1073741833
+    "real_protocol": 1073741833,
+    "related_version":"1.17"
   },
   {
     "name": "20w49a",
     "protocol": "Snapshot 8",
-    "real_protocol": 1073741832
+    "real_protocol": 1073741832,
+    "related_version":"1.17"
   },
   {
     "name": "20w48a",
     "protocol": "Snapshot 7",
-    "real_protocol": 1073741831
+    "real_protocol": 1073741831,
+    "related_version":"1.17"
   },
   {
     "name": "20w46a",
     "protocol": "Snapshot 6",
-    "real_protocol": 1073741830
+    "real_protocol": 1073741830,
+    "related_version":"1.17"
   },
   {
     "name": "20w45a",
     "protocol": "Snapshot 5",
-    "real_protocol": 1073741829
+    "real_protocol": 1073741829,
+    "related_version":"1.17"
   },
   {
     "name": "1.16.4",
@@ -232,17 +280,20 @@
   {
     "name": "1.16.4-rc1",
     "protocol": "Snapshot 3",
-    "real_protocol": 1073741827
+    "real_protocol": 1073741827,
+    "related_version":"1.16.4"
   },
   {
     "name": "1.16.4-pre2",
     "protocol": "Snapshot 2",
-    "real_protocol": 1073741826
+    "real_protocol": 1073741826,
+    "related_version":"1.16.4"
   },
   {
     "name": "1.16.4-pre1",
     "protocol": "Snapshot 1",
-    "real_protocol": 1073741825
+    "real_protocol": 1073741825,
+    "related_version":"1.16.4"
   },
   {
     "name": "1.16.3",
@@ -252,7 +303,8 @@
   {
     "name": "1.16.3-rc1",
     "protocol": 752,
-    "real_protocol": 752
+    "real_protocol": 752,
+    "related_version":"1.16.3"
   },
   {
     "name": "1.16.2",
@@ -262,47 +314,56 @@
   {
     "name": "1.16.2-rc2",
     "protocol": 750,
-    "real_protocol": 750
+    "real_protocol": 750,
+    "related_version":"1.16.2"
   },
   {
     "name": "1.16.2-rc1",
     "protocol": 749,
-    "real_protocol": 749
+    "real_protocol": 749,
+    "related_version":"1.16.2"
   },
   {
     "name": "1.16.2-pre3",
     "protocol": 748,
-    "real_protocol": 748
+    "real_protocol": 748,
+    "related_version":"1.16.2"
   },
   {
     "name": "1.16.2-pre2",
     "protocol": 746,
-    "real_protocol": 746
+    "real_protocol": 746,
+    "related_version":"1.16.2"
   },
   {
     "name": "1.16.2-pre1",
     "protocol": 744,
-    "real_protocol": 744
+    "real_protocol": 744,
+    "related_version":"1.16.2"
   },
   {
     "name": "20w30a",
     "protocol": 743,
-    "real_protocol": 743
+    "real_protocol": 743,
+    "related_version":"1.16.2"
   },
   {
     "name": "20w29a",
     "protocol": 741,
-    "real_protocol": 741
+    "real_protocol": 741,
+    "related_version":"1.16.2"
   },
   {
     "name": "20w28a",
     "protocol": 740,
-    "real_protocol": 740
+    "real_protocol": 740,
+    "related_version":"1.16.2"
   },
   {
     "name": "20w27a",
     "protocol": 738,
-    "real_protocol": 738
+    "real_protocol": 738,
+    "related_version":"1.16.2"
   },
   {
     "name": "1.16.1",
@@ -317,147 +378,176 @@
   {
     "name": "1.16-rc1",
     "protocol": 734,
-    "real_protocol": 734
+    "real_protocol": 734,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre8",
     "protocol": 733,
-    "real_protocol": 733
+    "real_protocol": 733,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre7",
     "protocol": 732,
-    "real_protocol": 732
+    "real_protocol": 732,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre6",
     "protocol": 730,
-    "real_protocol": 730
+    "real_protocol": 730,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre5",
     "protocol": 729,
-    "real_protocol": 729
+    "real_protocol": 729,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre4",
     "protocol": 727,
-    "real_protocol": 727
+    "real_protocol": 727,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre3",
     "protocol": 725,
-    "real_protocol": 725
+    "real_protocol": 725,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre2",
     "protocol": 722,
-    "real_protocol": 722
+    "real_protocol": 722,
+    "related_version":"1.16"
   },
   {
     "name": "1.16-pre1",
     "protocol": 721,
-    "real_protocol": 721
+    "real_protocol": 721,
+    "related_version":"1.16"
   },
   {
     "name": "20w22a",
     "protocol": 719,
-    "real_protocol": 719
+    "real_protocol": 719,
+    "related_version":"1.16"
   },
   {
     "name": "20w21a",
     "protocol": 718,
-    "real_protocol": 718
+    "real_protocol": 718,
+    "related_version":"1.16"
   },
   {
     "name": "20w20b",
     "protocol": 717,
-    "real_protocol": 717
+    "real_protocol": 717,
+    "related_version":"1.16"
   },
   {
     "name": "20w20a",
     "protocol": 716,
-    "real_protocol": 716
+    "real_protocol": 716,
+    "related_version":"1.16"
   },
   {
     "name": "20w19a",
     "protocol": 715,
-    "real_protocol": 715
+    "real_protocol": 715,
+    "related_version":"1.16"
   },
   {
     "name": "20w18a",
     "protocol": 714,
-    "real_protocol": 714
+    "real_protocol": 714,
+    "related_version":"1.16"
   },
   {
     "name": "20w17a",
     "protocol": 713,
-    "real_protocol": 713
+    "real_protocol": 713,
+    "related_version":"1.16"
   },
   {
     "name": "20w16a",
     "protocol": 712,
-    "real_protocol": 712
+    "real_protocol": 712,
+    "related_version":"1.16"
   },
   {
     "name": "20w15a",
     "protocol": 711,
-    "real_protocol": 711
+    "real_protocol": 711,
+    "related_version":"1.16"
   },
   {
     "name": "20w14a",
     "protocol": 710,
-    "real_protocol": 710
+    "real_protocol": 710,
+    "related_version":"1.16"
   },
   {
     "name": "20w14∞",
     "protocol": 709,
-    "real_protocol": 709
+    "real_protocol": 709,
+    "related_version":"1.16"
   },
   {
     "name": "20w13b",
     "protocol": 709,
-    "real_protocol": 709
+    "real_protocol": 709,
+    "related_version":"1.16"
   },
   {
     "name": "20w13a",
     "protocol": 708,
-    "real_protocol": 708
+    "real_protocol": 708,
+    "related_version":"1.16"
   },
   {
     "name": "20w12a",
     "protocol": 707,
-    "real_protocol": 707
+    "real_protocol": 707,
+    "related_version":"1.16"
   },
   {
     "name": "20w11a",
     "protocol": 706,
-    "real_protocol": 706
+    "real_protocol": 706,
+    "related_version":"1.16"
   },
   {
     "name": "20w10a",
     "protocol": 705,
-    "real_protocol": 705
+    "real_protocol": 705,
+    "related_version":"1.16"
   },
   {
     "name": "20w09a",
     "protocol": 704,
-    "real_protocol": 704
+    "real_protocol": 704,
+    "related_version":"1.16"
   },
   {
     "name": "20w08a",
     "protocol": 703,
-    "real_protocol": 703
+    "real_protocol": 703,
+    "related_version":"1.16"
   },
   {
     "name": "20w07a",
     "protocol": 702,
-    "real_protocol": 702
+    "real_protocol": 702,
+    "related_version":"1.16"
   },
   {
     "name": "20w06a",
     "protocol": 701,
-    "real_protocol": 701
+    "real_protocol": 701,
+    "related_version":"1.16"
   },
   {
     "name": "1.15.2",
